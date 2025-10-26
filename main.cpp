@@ -6,6 +6,6 @@
 
 int main()
 {
-  // fix bug
+  // fix bug 2
   printf("Hello");
 }
